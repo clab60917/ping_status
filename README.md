@@ -4,6 +4,7 @@
 ![Ping Status](https://img.shields.io/badge/Ping-Status-green) ![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
 
 Ping Status Tool is a simple but effective Python script that allows you to quickly check the status of multiple IP addresses from a file. It displays the "UP" and "DOWN" hosts in a colorful, well-structured table, with a progress bar showing the ping advancement.
+<img width="854" alt="Capture d’écran 2024-09-25 à 16 16 20" src="https://github.com/user-attachments/assets/43ebe3ae-3f11-40de-9958-2c199a4aec0a">
 
 ## Features
 - 🟢 Displays accessible hosts (UP) in green.
